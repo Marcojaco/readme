@@ -8,7 +8,7 @@ Building software, experimenting with ideas and turning problems into useful sol
 
 <br>
 
-<img src="assets/grid.svg" width="100%" />
+<img src="assets/grid.jpg" width="100%" />
 
 </div>
 
