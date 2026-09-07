@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Jakobe Lab
+# ⚡ JAKOBE
 
 Building software, experimenting with ideas and turning problems into useful solutions.
 
@@ -32,7 +32,6 @@ I like taking an idea, breaking it down, building it, testing it and turning it 
 - 💻 Full-Stack Projects
 - 🧪 Experimental Projects
 - 🛠 Developer Utilities
-- 🎨 Modern Interfaces
 
 → **Build useful things. Not just pretty things.**
 
@@ -41,7 +40,7 @@ I like taking an idea, breaking it down, building it, testing it and turning it 
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,python,express,mongodb,mysql,postgres,git,github,docker,vercel" />
+<img src="https://skillicons.dev/icons?i=js,react,python,mongodb,mysql,git,github,vercel" />
 </p>
 
 ---
@@ -55,4 +54,3 @@ I like taking an idea, breaking it down, building it, testing it and turning it 
 → APIs
 → Bots & Automation
 → Cybersecurity
-→ AI & Chatbots
